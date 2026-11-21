@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "stem-saathi",
+      "runtimeExecutable": "env",
+      "runtimeArgs": ["PORT=3005", "npm", "run", "dev"],
+      "port": 3005,
+      "autoPort": false
+    }
+  ]
+}
